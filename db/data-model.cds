@@ -10,4 +10,4 @@ entity EMPLOYEE_REGISTRY : cuid, managed {
 
 entity DEPARTMENT : cuid {
     NAME            : String(255);
-}
+} // my new change
